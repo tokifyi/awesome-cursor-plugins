@@ -161,6 +161,10 @@
       "id": 1273823932,
       "full_name": "context-dot-dev/cursor-plugin"
     },
+    "convex/convex-agent-plugins": {
+      "id": 1150126946,
+      "full_name": "convex/convex-agent-plugins"
+    },
     "crowdstrike/foundry-skills": {
       "id": 1204115994,
       "full_name": "CrowdStrike/foundry-skills"
